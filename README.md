@@ -1,7 +1,7 @@
 ### Hi there, I`m Alexander 👋
 Computer science student
 
-🌱 I’m currently learning Data Science
+🌱 I’m currently learning Data Science and... I will be a rock star on this way!!!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcticDew)](https://github.com/anuraghazra/github-readme-stats)
 
