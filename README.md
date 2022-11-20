@@ -1,7 +1,7 @@
 ### Hi there, I`m Alexander 👋
 Computer science student
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArcticDew)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArcticDew)](https://github.com/ryo-ma/github-profile-trophy)
 
