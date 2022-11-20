@@ -1,6 +1,8 @@
 ### Hi there, I`m Alexander 👋
 Computer science student
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArcticDew)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
